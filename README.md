@@ -33,12 +33,10 @@ const tommaso = {
 | **Anthon 2.0** | Reliable AI conversations, orchestration, voice, and feedback loops. | Next.js · TypeScript · PostgreSQL · AI |
 | **Drivewise** | Explainable vehicle discovery from real user requirements. | TypeScript · React · PostgreSQL · API design |
 
-## `~/activity-dashboard`
+## `~/language-signals`
 
 <!-- Generated daily by .github/workflows/profile-widgets.yml -->
 <div align="center">
-  <img width="96%" src="https://raw.githubusercontent.com/KovD3v/KovD3v/profile-summary-card-output/default/0-profile-details.svg" alt="GitHub contribution overview" />
-  <br />
   <img width="48%" src="https://raw.githubusercontent.com/KovD3v/KovD3v/profile-summary-card-output/default/1-repos-per-language.svg" alt="Repositories by language" />
   <img width="48%" src="https://raw.githubusercontent.com/KovD3v/KovD3v/profile-summary-card-output/default/2-most-commit-language.svg" alt="Most committed languages" />
 </div>

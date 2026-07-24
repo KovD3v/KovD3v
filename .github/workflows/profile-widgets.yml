@@ -9,20 +9,6 @@ permissions:
   contents: write
 
 jobs:
-  summary-cards:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
-        env:
-          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
-        with:
-          USERNAME: ${{ github.repository_owner }}
-          BRANCH_NAME: profile-summary-card-output
-          AUTO_PUSH: true
-
   contribution-snake:
     runs-on: ubuntu-latest
     steps:

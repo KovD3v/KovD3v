@@ -33,11 +33,25 @@ const tommaso = {
 | **Anthon 2.0** | Reliable AI conversations, orchestration, voice, and feedback loops. | Next.js · TypeScript · PostgreSQL · AI |
 | **Drivewise** | Explainable vehicle discovery from real user requirements. | TypeScript · React · PostgreSQL · API design |
 
-## `~/github-signals`
+## `~/activity-dashboard`
 
+<!-- Generated daily by .github/workflows/profile-widgets.yml -->
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KovD3v&show_icons=true&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=a78bfa&text_color=cbd5e1" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=KovD3v&hide_border=true&background=0d1117&ring=60a5fa&fire=a78bfa&currStreakLabel=cbd5e1&sideLabels=cbd5e1&dates=64748b" alt="GitHub contribution streak" />
+  <img width="96%" src="https://raw.githubusercontent.com/KovD3v/KovD3v/profile-summary-card-output/default/0-profile-details.svg" alt="GitHub contribution overview" />
+  <br />
+  <img width="48%" src="https://raw.githubusercontent.com/KovD3v/KovD3v/profile-summary-card-output/default/1-repos-per-language.svg" alt="Repositories by language" />
+  <img width="48%" src="https://raw.githubusercontent.com/KovD3v/KovD3v/profile-summary-card-output/default/2-most-commit-language.svg" alt="Most committed languages" />
+</div>
+
+## `~/contribution-field`
+
+<!-- Generated daily by .github/workflows/profile-widgets.yml -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KovD3v/KovD3v/profile-widgets/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KovD3v/KovD3v/profile-widgets/github-contribution-grid-snake.svg" />
+    <img alt="Animated contribution graph" src="https://raw.githubusercontent.com/KovD3v/KovD3v/profile-widgets/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </div>
 
 <div align="center">
